@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Email-customize-web-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Email-customize-web-app/static/js/main.b6a51fa8.chunk.js",
+    "main.js.map": "/Email-customize-web-app/static/js/main.b6a51fa8.chunk.js.map",
+    "runtime-main.js": "/Email-customize-web-app/static/js/runtime-main.0ba88eed.js",
+    "runtime-main.js.map": "/Email-customize-web-app/static/js/runtime-main.0ba88eed.js.map",
+    "static/js/2.2edb3a29.chunk.js": "/Email-customize-web-app/static/js/2.2edb3a29.chunk.js",
+    "static/js/2.2edb3a29.chunk.js.map": "/Email-customize-web-app/static/js/2.2edb3a29.chunk.js.map",
+    "index.html": "/Email-customize-web-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Email-customize-web-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2edb3a29.chunk.js.LICENSE.txt": "/Email-customize-web-app/static/js/2.2edb3a29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba88eed.js",
+    "static/js/2.2edb3a29.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b6a51fa8.chunk.js"
+  ]
+}
